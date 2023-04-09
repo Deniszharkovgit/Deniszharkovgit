@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DenZharkov)
+[![codewars](https://www.codewars.com/users/DenZharkov/badges/large)](https://www.codewars.com/users/DenZharkov)
